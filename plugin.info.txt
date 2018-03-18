@@ -1,0 +1,8 @@
+base    newpagelink
+author  Frank Schiebel
+email   frank@linuxmuster.net
+date    2018-03-18
+name    Button to insert code for new pages
+desc    Easily create links to new pages and namespaces with an editor button 
+url     https://www.dokuwiki.org/plugin:newpagelink
+
